@@ -1,0 +1,16 @@
+{
+  "name": "randomist",
+  "version": "1.0.0",
+  "description": "All things random",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "author": "antonio6643",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "github:discordjs/discord.js",
+    "mongoose": "^5.11.10"
+  }
+}
